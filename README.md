@@ -15,7 +15,7 @@
 
 🔨 Projects
 - 📦 Check out my latest projects on GitHub https://github.com/vishu3053
-- 🌐 Built a [mention a project] using [technology stack]
+
 
 📫 Let's Connect
 - 📧 Email: vishwashp3053@gmail.com
