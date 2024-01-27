@@ -9,6 +9,7 @@
 🚀 Skills
 - 🔧 Proficient in C++
 - 🌐 Web development with HTML, CSS, and JavaScript
+- ⚛️ ReactJS for building dynamic and responsive user interfaces
 - 📦 Version control using Git and GitHub
 - 💡 Problem-solving and algorithm design
 - 🚀 Ready to learn and adapt to new technologies
