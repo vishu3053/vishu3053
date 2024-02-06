@@ -20,7 +20,7 @@
 
 📫 Let's Connect
 - 📧 Email: vishwashp3053@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/vishwash-m-patel-49695228b/
+- 🌐 LinkedIn: https://www.linkedin.com/in/vishu3053/
 
 💬 Open to collaborations, new opportunities, and making friends in the tech world. Let's code together! 🤝
 
