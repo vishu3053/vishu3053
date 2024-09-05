@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vishwashp3053/](https://medium.com/@vishwashp3053/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vishwashp3053@gmail.com**
 
