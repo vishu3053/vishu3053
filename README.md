@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishu3053" alt="vishu3053" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation System using Facial Recognition**
+- 🔭 I’m currently working on **Movie Recommendation System using Emotion Detection Recognition**
 
 - 📝 I regularly write articles on [https://medium.com/@vishwashp3053/](https://medium.com/@vishwashp3053/)
 
